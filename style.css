@@ -3,6 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
     font-size: large;
+    padding: 5px;
 }
 h1{
     font-size: 60px;
@@ -10,18 +11,29 @@ h1{
 h1{
     border-left: 7px salmon;
 }
+.black{
+    text-align: center;
+}
+.white{
+    color: brown;
+}
+.header{
+    border-left-style: solid;
+    border-left-width: 5px;
+    border-left-color: tomato;
+}
 #cmt {
     color: gold;
 }
-.etm {
-    margin-top: 150px;
-}
+.top{
+    margin-top: 80px;
+}   
 .half img{
-    width: 80%;
+    width: 70%;
 }
 .half{
     width: 50%;
-    padding-left: 4%;
+    padding-left: 5%;
 }
 .top{
     display: flex;
@@ -30,9 +42,9 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    padding: 10px 40px;
-    background-color: tomato;
+    padding: 10px 30px;
+    background-color: blue;
     color: white;
-    font-weight: 700;
+    font-weight: normal;
     border-radius: 5px;
 }
