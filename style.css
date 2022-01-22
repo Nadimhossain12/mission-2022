@@ -48,3 +48,35 @@ h1{
     font-weight: normal;
     border-radius: 5px;
 }
+.middle{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: small;
+}
+.middle img{
+width: 40%;
+}
+.first{
+    background-color: violet;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: white;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.second{
+    background-color: gray;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: white;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.third{
+    background-color:royalblue;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: white;
+    border-radius: 20px;
+}
