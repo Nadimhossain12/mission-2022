@@ -128,3 +128,39 @@ width: 40%;
 .sakil{
     color: blueviolet;
 }
+.rokib{
+    color: cornflowerblue;
+}
+.bottom{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 150px;
+}
+.bottom img{
+    width: 70%;
+    background-image: url(images/shapes/shape-2.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.last{
+    padding-left: 100px;
+}
+.mobile{
+    text-decoration: none;
+    background-color: crimson;
+    color: cyan;
+    font-weight: normal;
+    border-radius: 5px;
+    padding: 10px;
+}
+.eva{
+    color: cyan;
+}
+.under{
+    text-align: center;
+    background-color: darkorange;
+    color: white;
+    margin-top: 100px;
+}
